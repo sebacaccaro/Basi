@@ -1,0 +1,211 @@
+#001	#252	Treecko	Treecko	Erba
+#002	#253	Grovyle	Grovyle	Erba
+#003	#254	Sceptile	Sceptile	Erba
+#004	#255	Torchic	Torchic	Fuoco
+#005	#256	Combusken	Combusken	Fuoco	Lotta
+#006	#257	Blaziken	Blaziken	Fuoco	Lotta
+#007	#258	Mudkip	Mudkip	Acqua
+#008	#259	Marshtomp	Marshtomp	Acqua	Terra
+#009	#260	Swampert	Swampert	Acqua	Terra
+#010	#261	Poochyena	Poochyena	Buio
+#011	#262	Mightyena	Mightyena	Buio
+#012	#263	Zigzagoon	Zigzagoon	Normale
+#013	#264	Linoone	Linoone	Normale
+#014	#265	Wurmple	Wurmple	Coleottero
+#015	#266	Silcoon	Silcoon	Coleottero
+#016	#267	Beautifly	Beautifly	Coleottero	Volante
+#017	#268	Cascoon	Cascoon	Coleottero
+#018	#269	Dustox	Dustox	Coleottero	Veleno
+#019	#270	Lotad	Lotad	Acqua	Erba
+#020	#271	Lombre	Lombre	Acqua	Erba
+#021	#272	Ludicolo	Ludicolo	Acqua	Erba
+#022	#273	Seedot	Seedot	Erba
+#023	#274	Nuzleaf	Nuzleaf	Erba	Buio
+#024	#275	Shiftry	Shiftry	Erba	Buio
+#025	#276	Taillow	Taillow	Normale	Volante
+#026	#277	Swellow	Swellow	Normale	Volante
+#027	#278	Wingull	Wingull	Acqua	Volante
+#028	#279	Pelipper	Pelipper	Acqua	Volante
+#029	#280	Ralts	Ralts	Psico	Folletto
+#030	#281	Kirlia	Kirlia	Psico	Folletto
+#031	#282	Gardevoir	Gardevoir	Psico	Folletto
+#032	#475	Gallade	Gallade	Psico	Lotta
+#033	#283	Surskit	Surskit	Coleottero	Acqua
+#034	#284	Masquerain	Masquerain	Coleottero	Volante
+#035	#285	Shroomish	Shroomish	Erba
+#036	#286	Breloom	Breloom	Erba	Lotta
+#037	#287	Slakoth	Slakoth	Normale
+#038	#288	Vigoroth	Vigoroth	Normale
+#039	#289	Slaking	Slaking	Normale
+#040	#063	Abra	Abra	Psico
+#041	#064	Kadabra	Kadabra	Psico
+#042	#065	Alakazam	Alakazam	Psico
+#043	#290	Nincada	Nincada	Coleottero	Terra
+#044	#291	Ninjask	Ninjask	Coleottero	Volante
+#045	#292	Shedinja	Shedinja	Coleottero	Spettro
+#046	#293	Whismur	Whismur	Normale
+#047	#294	Loudred	Loudred	Normale
+#048	#295	Exploud	Exploud	Normale
+#049	#296	Makuhita	Makuhita	Lotta
+#050	#297	Hariyama	Hariyama	Lotta
+#051	#118	Goldeen	Goldeen	Acqua
+#052	#119	Seaking	Seaking	Acqua
+#053	#129	Magikarp	Magikarp	Acqua
+#054	#130	Gyarados	Gyarados	Acqua	Volante
+#055	#298	Azurill	Azurill	Normale	Folletto
+#056	#183	Marill	Marill	Acqua	Folletto
+#057	#184	Azumarill	Azumarill	Acqua	Folletto
+#058	#074	Geodude	Geodude	Roccia	Terra
+#059	#075	Graveler	Graveler	Roccia	Terra
+#060	#076	Golem	Golem	Roccia	Terra
+#061	#299	Nosepass	Nosepass	Roccia
+#062	#476	Probopass	Probopass	Roccia	Acciaio
+#063	#300	Skitty	Skitty	Normale
+#064	#301	Delcatty	Delcatty	Normale
+#065	#041	Zubat	Zubat	Veleno	Volante
+#066	#042	Golbat	Golbat	Veleno	Volante
+#067	#169	Crobat	Crobat	Veleno	Volante
+#068	#072	Tentacool	Tentacool	Acqua	Veleno
+#069	#073	Tentacruel	Tentacruel	Acqua	Veleno
+#070	#302	Sableye	Sableye	Buio	Spettro
+#071	#303	Mawile	Mawile	Acciaio	Folletto
+#072	#304	Aron	Aron	Acciaio	Roccia
+#073	#305	Lairon	Lairon	Acciaio	Roccia
+#074	#306	Aggron	Aggron	Acciaio	Roccia
+#075	#066	Machop	Machop	Lotta
+#076	#067	Machoke	Machoke	Lotta
+#077	#068	Machamp	Machamp	Lotta
+#078	#307	Meditite	Meditite	Lotta	Psico
+#079	#308	Medicham	Medicham	Lotta	Psico
+#080	#309	Electrike	Electrike	Elettro
+#081	#310	Manectric	Manectric	Elettro
+#082	#311	Plusle	Plusle	Elettro
+#083	#312	Minun	Minun	Elettro
+#084	#081	Magnemite	Magnemite	Elettro	Acciaio
+#085	#082	Magneton	Magneton	Elettro	Acciaio
+#086	#462	Magnezone	Magnezone	Elettro	Acciaio
+#087	#100	Voltorb	Voltorb	Elettro
+#088	#101	Electrode	Electrode	Elettro
+#089	#313	Volbeat	Volbeat	Coleottero
+#090	#314	Illumise	Illumise	Coleottero
+#091	#043	Oddish	Oddish	Erba	Veleno
+#092	#044	Gloom	Gloom	Erba	Veleno
+#093	#045	Vileplume	Vileplume	Erba	Veleno
+#094	#182	Bellossom	Bellossom	Erba
+#095	#084	Doduo	Doduo	Normale	Volante
+#096	#085	Dodrio	Dodrio	Normale	Volante
+#097	#406	Budew	Budew	Erba	Veleno
+#098	#315	Roselia	Roselia	Erba	Veleno
+#099	#407	Roserade	Roserade	Erba	Veleno
+#100	#316	Gulpin	Gulpin	Veleno
+#101	#317	Swalot	Swalot	Veleno
+#102	#318	Carvanha	Carvanha	Acqua	Buio
+#103	#319	Sharpedo	Sharpedo	Acqua	Buio
+#104	#320	Wailmer	Wailmer	Acqua
+#105	#321	Wailord	Wailord	Acqua
+#106	#322	Numel	Numel	Fuoco	Terra
+#107	#323	Camerupt	Camerupt	Fuoco	Terra
+#108	#218	Slugma	Slugma	Fuoco
+#109	#219	Magcargo	Magcargo	Fuoco	Roccia
+#110	#324	Torkoal	Torkoal	Fuoco
+#111	#088	Grimer	Grimer	Veleno
+#112	#089	Muk	Muk	Veleno
+#113	#109	Koffing	Koffing	Veleno
+#114	#110	Weezing	Weezing	Veleno
+#115	#325	Spoink	Spoink	Psico
+#116	#326	Grumpig	Grumpig	Psico
+#117	#027	Sandshrew	Sandshrew	Terra
+#118	#028	Sandslash	Sandslash	Terra
+#119	#327	Spinda	Spinda	Normale
+#120	#227	Skarmory	Skarmory	Acciaio	Volante
+#121	#328	Trapinch	Trapinch	Terra
+#122	#329	Vibrava	Vibrava	Terra	Drago
+#123	#330	Flygon	Flygon	Terra	Drago
+#124	#331	Cacnea	Cacnea	Erba
+#125	#332	Cacturne	Cacturne	Erba	Buio
+#126	#333	Swablu	Swablu	Normale	Volante
+#127	#334	Altaria	Altaria	Drago	Volante
+#128	#335	Zangoose	Zangoose	Normale
+#129	#336	Seviper	Seviper	Veleno
+#130	#337	Lunatone	Lunatone	Roccia	Psico
+#131	#338	Solrock	Solrock	Roccia	Psico
+#132	#339	Barboach	Barboach	Acqua	Terra
+#133	#340	Whiscash	Whiscash	Acqua	Terra
+#134	#341	Corphish	Corphish	Acqua
+#135	#342	Crawdaunt	Crawdaunt	Acqua	Buio
+#136	#343	Baltoy	Baltoy	Terra	Psico
+#137	#344	Claydol	Claydol	Terra	Psico
+#138	#345	Lileep	Lileep	Roccia	Erba
+#139	#346	Cradily	Cradily	Roccia	Erba
+#140	#347	Anorith	Anorith	Roccia	Coleottero
+#141	#348	Armaldo	Armaldo	Roccia	Coleottero
+#142	#174	Igglybuff	Igglybuff	Normale	Folletto
+#143	#039	Jigglypuff	Jigglypuff	Normale	Folletto
+#144	#040	Wigglytuff	Wigglytuff	Normale	Folletto
+#145	#349	Feebas	Feebas	Acqua
+#146	#350	Milotic	Milotic	Acqua
+#147	#351	Castform	Castform	Normale
+#148	#120	Staryu	Staryu	Acqua
+#149	#121	Starmie	Starmie	Acqua	Psico
+#150	#352	Kecleon	Kecleon	Normale
+#151	#353	Shuppet	Shuppet	Spettro
+#152	#354	Banette	Banette	Spettro
+#153	#355	Duskull	Duskull	Spettro
+#154	#356	Dusclops	Dusclops	Spettro
+#155	#477	Dusknoir	Dusknoir	Spettro
+#156	#357	Tropius	Tropius	Erba	Volante
+#157	#433	Chingling	Chingling	Psico
+#158	#358	Chimecho	Chimecho	Psico
+#159	#359	Absol	Absol	Buio
+#160	#037	Vulpix	Vulpix	Fuoco
+#161	#038	Ninetales	Ninetales	Fuoco
+#162	#172	Pichu	Pichu	Elettro
+#163	#025	Pikachu	Pikachu	Elettro
+#164	#026	Raichu	Raichu	Elettro
+#165	#054	Psyduck	Psyduck	Acqua
+#166	#055	Golduck	Golduck	Acqua
+#167	#360	Wynaut	Wynaut	Psico
+#168	#202	Wobbuffet	Wobbuffet	Psico
+#169	#177	Natu	Natu	Psico	Volante
+#170	#178	Xatu	Xatu	Psico	Volante
+#171	#203	Girafarig	Girafarig	Normale	Psico
+#172	#231	Phanpy	Phanpy	Terra
+#173	#232	Donphan	Donphan	Terra
+#174	#127	Pinsir	Pinsir	Coleottero
+#175	#214	Heracross	Heracross	Coleottero	Lotta
+#176	#111	Rhyhorn	Rhyhorn	Terra	Roccia
+#177	#112	Rhydon	Rhydon	Terra	Roccia
+#178	#464	Rhyperior	Rhyperior	Terra	Roccia
+#179	#361	Snorunt	Snorunt	Ghiaccio
+#180	#362	Glalie	Glalie	Ghiaccio
+#181	#478	Froslass	Froslass	Ghiaccio	Spettro
+#182	#363	Spheal	Spheal	Ghiaccio	Acqua
+#183	#364	Sealeo	Sealeo	Ghiaccio	Acqua
+#184	#365	Walrein	Walrein	Ghiaccio	Acqua
+#185	#366	Clamperl	Clamperl	Acqua
+#186	#367	Huntail	Huntail	Acqua
+#187	#368	Gorebyss	Gorebyss	Acqua
+#188	#369	Relicanth	Relicanth	Roccia	Acqua
+#189	#222	Corsola	Corsola	Roccia	Acqua
+#190	#170	Chinchou	Chinchou	Acqua	Elettro
+#191	#171	Lanturn	Lanturn	Acqua	Elettro
+#192	#370	Luvdisc	Luvdisc	Acqua
+#193	#116	Horsea	Horsea	Acqua
+#194	#117	Seadra	Seadra	Acqua
+#195	#230	Kingdra	Kingdra	Acqua	Drago
+#196	#371	Bagon	Bagon	Drago
+#197	#372	Shelgon	Shelgon	Drago
+#198	#373	Salamence	Salamence	Drago	Volante
+#199	#374	Beldum	Beldum	Acciaio	Psico
+#200	#375	Metang	Metang	Acciaio	Psico
+#201	#376	Metagross	Metagross	Acciaio	Psico
+#202	#377	Regirock	Regirock	Roccia
+#203	#378	Regice	Regice	Ghiaccio
+#204	#379	Registeel	Registeel	Acciaio
+#205	#380	Latias	Latias	Drago	Psico
+#206	#381	Latios	Latios	Drago	Psico
+#207	#382	Kyogre	Kyogre	Acqua
+#208	#383	Groudon	Groudon	Terra
+#209	#384	Rayquaza	Rayquaza	Drago	Volante
+#210	#385	Jirachi	Jirachi	Acciaio	Psico
+#211	#386	Deoxys	Deoxys	Psico
