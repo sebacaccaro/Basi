@@ -45,7 +45,7 @@ CREATE TABLE Tipo(
   Nome VARCHAR(10),
   Descrizione VARCHAR(50),
 
-  PRIMARY KEY (Nome);
+  PRIMARY KEY (Nome)
 );
 
 /*Creo Tabella Efficacia*/
@@ -116,20 +116,20 @@ ALTER TABLE SpeciePokemon
   ADD CONSTRAINT SpTp1 FOREIGN KEY (Tipo1) REFERENCES Tipo(Nome),
   ADD CONSTRAINT SpTp2 FOREIGN KEY (Tipo2) REFERENCES Tipo(Nome),
   ADD CONSTRAINT Sp CHECK(ID > 0 AND Altezza > 0 AND Peso > 0);
-  
+
 ALTER TABLE Apprendimento
   ADD CONSTRAINT ApMo FOREIGN KEY (Mossa) REFERENCES Mossa(Nome),
   ADD CONSTRAINT Appr CHECK(Livello > 0 AND Livello < 100);
-  
+
 ALTER TABLE Caratterizzazione
   ADD CONSTRAINT CaSp FOREIGN KEY Pokemon REFERENCES SpeciePokemon(ID),
   ADD CONSTRAINT CaAb FOREIGN KEY Abilita REFERENCES Abilita(Nome);
-  
+
 ALTER TABLE Efficacia
   ADD CONSTRAINT AtTi FOREIGN KEY Attaccante REFERENCES Tipo(Nome),
   ADD CONSTRAINT DiTi FOREIGN KEY Difensore REFERENCES Tipo(Nome),
   ADD CONSTRAINT Eff CHECK(Coefficiente >= 0 AND MOD(Coefficiente,0.5) = 0);
-  
+
 ALTER TABLE Mossa
   ADD CONSTRAINT MoTi FOREIGN KEY Tipo REFERENCES Tipo(Nome),
   ADD CONSTRAINT Moss CHECK(Potenza >= 0 AND PPBase >= 0 AND Precisione >= 0);
@@ -139,11 +139,11 @@ ALTER TABLE Evoluzione
   ADD CONSTRAINT EVente FOREIGN KEY PokemonEvolvente REFERENCES SpeciePokemon(ID),
   ADD CONSTRAINT Evo CHECK (StatoEvoluzione >= -1 AND StatoEvoluzione <= 4
                         AND Livello > 1);
-      
+
 ALTER TABLE EvoluzioneDaZona
   ADD CONSTRAINT PkEv FOREIGN KEY Pokemon REFERENCES Evoluzione(PokemonEvoluto),
   ADD CONSTRAINT EvZo FOREIGN KEY Zona REFERENCES Zona(ID);
-  
+
 ALTER TABLE Zona
   ADD CONSTRAINT Zon CHECK(ID >= 0);
 
