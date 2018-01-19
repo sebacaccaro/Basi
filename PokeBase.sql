@@ -83,13 +83,6 @@ CREATE TABLE Evoluzione(
   PRIMARY KEY(PokemonEvoluto)
 );
 
-/*Creo Tabella Evoluzione da Zona*/
-CREATE TABLE EvoluzioneDaZona(
-  Pokemon Smallint,
-  Zona Smallint,
-
-  PRIMARY KEY(Pokemon,Zona)
-);
 
 /*Create Table Zona*/
 CREATE TABLE Zona(
@@ -140,10 +133,6 @@ ALTER TABLE Evoluzione
   ADD CONSTRAINT Evo CHECK (StatoEvoluzione >= -1 AND StatoEvoluzione <= 4
                         AND Livello > 1);
 
-ALTER TABLE EvoluzioneDaZona
-  ADD CONSTRAINT PkEv FOREIGN KEY (Pokemon) REFERENCES Evoluzione(PokemonEvoluto),
-  ADD CONSTRAINT EvZo FOREIGN KEY (Zona) REFERENCES Zona(ID);
-
 ALTER TABLE Zona
   ADD CONSTRAINT Zon CHECK(ID >= 0);
 
@@ -159,6 +148,6 @@ LOAD DATA LOCAL INFILE 'Abilita.txt' INTO TABLE Abilita;
 LOAD DATA LOCAL INFILE 'Tipi.txt' INTO TABLE Tipo;
 LOAD DATA LOCAL INFILE 'Efficacia.txt' INTO TABLE Efficacia;
 LOAD DATA LOCAL INFILE 'Zona.txt' INTO TABLE Zona;
-
+LOAD DATA LOCAL INFILE 'Evoluzione.txt' INTO TABLE Evoluzione;
 
 /*SET FOREIGN_KEY_CHECKS=1;*/

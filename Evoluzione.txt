@@ -1,0 +1,12 @@
+2	1	1	LevelUP	16
+3	2	2	LevelUP	32
+5	4	1	LevelUP	16
+6	5	2	LevelUP	32
+8	7	1	LevelUP	16
+9	8	2	LevelUP	32
+135	134	1	PietraTuono	\N
+136	134	1	PietraFocaia	\N
+137	134	1	PietraIdrica	\N
+64	63	1	LevelUP	16
+65	64	1	Scambio	\N
+
