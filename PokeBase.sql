@@ -52,7 +52,7 @@ CREATE TABLE Tipo(
 CREATE TABLE Efficacia(
   Attaccante VARCHAR(10),
   Difensore VARCHAR(10),
-  Coefficiente Decimal(1,1) NOT NULL,
+  Coefficiente Decimal(2,1) NOT NULL,
 
   PRIMARY KEY (Attaccante,Difensore)
 );
@@ -156,6 +156,9 @@ ALTER TABLE Habitat
 LOAD DATA LOCAL INFILE 'SpeciePokemon.txt' INTO TABLE SpeciePokemon;
 LOAD DATA LOCAL INFILE 'Mossa.txt' INTO TABLE Mossa;
 LOAD DATA LOCAL INFILE 'Abilita.txt' INTO TABLE Abilita;
+LOAD DATA LOCAL INFILE 'Tipi.txt' INTO TABLE Tipo;
+LOAD DATA LOCAL INFILE 'Efficacia.txt' INTO TABLE Efficacia;
+LOAD DATA LOCAL INFILE 'Zona.txt' INTO TABLE Zona;
 
 
 /*SET FOREIGN_KEY_CHECKS=1;*/

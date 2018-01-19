@@ -1,0 +1,141 @@
+1	Accademia Team Rocket	Kanto	\N	\N
+2	Accettazione Lega Pokémon	Kanto	\N	\N
+3	Albero dell'Inizio	Kanto	\N	\N
+4	Altopiano Blu	Kanto	\N	\N
+5	Aranciopoli	Kanto	\N	\N
+6	Azzurropoli	Kanto	\N	\N
+7	Biancavilla	Kanto	\N	\N
+8	Bosco Smeraldo	Kanto	\N	\N
+9	Camera da letto	Kanto	\N	\N
+10	Campo Pokéhearst	Kanto	\N	\N
+11	Canyon del Nonno	Kanto	\N	\N
+12	Casa Allenatore	Kanto	\N	\N
+13	Casa delle Memorie	Kanto	\N	\N
+14	Casa di Duplica	Kanto	\N	\N
+15	Cascate Tohjo	Kanto	\N	\N
+16	Casinò di Azzurropoli	Kanto	\N	\N
+17	Celestopoli	Kanto	\N	\N
+18	Centrale Elettrica	Kanto	\N	\N
+19	Centro Commerciale di Azzurropoli	Kanto	\N	\N
+20	Cerise Island	Kanto	\N	\N
+21	Città d'Argento	Kanto	\N	\N
+22	Città del Commercio	Kanto	\N	\N
+23	Città del Glicine	Kanto	\N	\N
+24	Città della Gardenia	Kanto	\N	\N
+25	Città delle More	Kanto	\N	\N
+26	Città dello Zibellino	Kanto	\N	\N
+27	Città di Cremini	Kanto	\N	\N
+28	Città natale	Kanto	\N	\N
+29	Club degli amanti dei Pokémon	Kanto	\N	\N
+30	Crimson City	Kanto	\N	\N
+31	Dark City	Kanto	\N	\N
+32	Utente:Dark Knight	Kanto	\N	\N
+33	Diga di Gaiva	Kanto	\N	\N
+34	Dojo Karate	Kanto	\N	\N
+35	Faro di Bill	Kanto	\N	\N
+36	Frodomar City	Kanto	\N	\N
+37	Fucsiapoli	Kanto	\N	\N
+38	Gringey City	Kanto	\N	\N
+39	Grotta Celeste	Kanto	\N	\N
+40	Grotta Diglett	Kanto	\N	\N
+41	Hollywood	Kanto	\N	\N
+42	HopHopHop Town	Kanto	\N	\N
+43	Isola Camomilla	Kanto	\N	\N
+44	Isola Cannella	Kanto	\N	\N
+45	Isola dei Pokémon Giganti	Kanto	\N	\N
+46	Isola del Crisantemo	Kanto	\N	\N
+47	Isola di Potpourri	Kanto	\N	\N
+48	Isola Metallica	Kanto	\N	\N
+49	Isola Sayda	Kanto	\N	\N
+50	Isole Spumarine	Kanto	\N	\N
+51	Kanto	Kanto	\N	\N
+52	Laboratorio del Professor Oak	Kanto	\N	\N
+53	Laboratorio Pokémon	Kanto	\N	\N
+54	Lavandonia	Kanto	\N	\N
+55	Leaf Forest	Kanto	\N	\N
+56	Lega Pokémon dell'Altopiano Blu	Kanto	\N	\N
+57	M/N Anna	Kanto	\N	\N
+58	Matcha City	Kanto	\N	\N
+59	Miramare	Kanto	\N	\N
+60	Montagna dell'evoluzione	Kanto	\N	\N
+61	Monte Hideaway	Kanto	\N	\N
+62	Monte Luna	Kanto	\N	\N
+63	Mt. Spirit	Kanto	\N	\N
+64	Museo della Scienza di Plumbeopoli	Kanto	\N	\N
+65	Negozio di Bici (Miracle Cycle)	Kanto	\N	\N
+66	Neon Town	Kanto	\N	\N
+67	New Island	Kanto	\N	\N
+68	O-Hina Town	Kanto	\N	\N
+69	Old Shore Wharf	Kanto	\N	\N
+70	Palazzo di Cameran	Kanto	\N	\N
+71	Parco a tema Pokémon	Kanto	\N	\N
+72	Parco Amici	Kanto	\N	\N
+73	Percorsi oceanici	Kanto	\N	\N
+74	Percorso 8	Kanto	\N	\N
+75	Percorso 13	Kanto	\N	\N
+76	Percorso 1	Kanto	\N	\N
+77	Percorso 10	Kanto	\N	\N
+78	Percorso 11	Kanto	\N	\N
+79	Percorso 12	Kanto	\N	\N
+80	Percorso 14	Kanto	\N	\N
+81	Percorso 15	Kanto	\N	\N
+82	Percorso 16	Kanto	\N	\N
+83	Percorso 17	Kanto	\N	\N
+84	Percorso 18	Kanto	\N	\N
+85	Percorso 2	Kanto	\N	\N
+86	Percorso 20	Kanto	\N	\N
+87	Percorso 19	Kanto	\N	\N
+88	Percorso 21	Kanto	\N	\N
+89	Percorso 22	Kanto	\N	\N
+90	Percorso 23	Kanto	\N	\N
+91	Percorso 24	Kanto	\N	\N
+92	Percorso 25	Kanto	\N	\N
+93	Percorso 26	Kanto	\N	\N
+94	Percorso 27	Kanto	\N	\N
+95	Percorso 28	Kanto	\N	\N
+96	Percorso 3	Kanto	\N	\N
+97	Percorso 4	Kanto	\N	\N
+98	Percorso 5	Kanto	\N	\N
+99	Percorso 6	Kanto	\N	\N
+100	Percorso 7	Kanto	\N	\N
+101	Percorso 9	Kanto	\N	\N
+102	Piazza Monte Luna	Kanto	\N	\N
+103	Plumbeopoli	Kanto	\N	\N
+104	Pokélantis	Kanto	\N	\N
+105	Pokémon Land	Kanto	\N	\N
+106	Pokémon Tech	Kanto	\N	\N
+107	Pokémopoli	Kanto	\N	\N
+108	Porta Vista	Kanto	\N	\N
+109	Promontorio della Fanciulla	Kanto	\N	\N
+110	Quartier Generale del Team Rocket (anime)	Kanto	\N	\N
+111	Rifugio Rocket (Azzurropoli)	Kanto	\N	\N
+112	Rota	Kanto	\N	\N
+113	Scissor Street	Kanto	\N	\N
+114	Scuola per Pokémon Ninja	Kanto	\N	\N
+115	Sede Gara	Kanto	\N	\N
+116	Silph SpA	Kanto	\N	\N
+117	Smeraldopoli	Kanto	\N	\N
+118	Stanza di Rotom	Kanto	\N	\N
+119	Stone Town	Kanto	\N	\N
+120	Sunny Town	Kanto	\N	\N
+121	Supertreno	Kanto	\N	\N
+122	Terra Safari	Kanto	\N	\N
+123	Terracotta	Kanto	\N	\N
+124	Torre Pokémon	Kanto	\N	\N
+125	Tunnel Roccioso	Kanto	\N	\N
+126	Università di Celadon City	Kanto	\N	\N
+127	Valle Fennel	Kanto	\N	\N
+128	Via Sotterranea (Percorsi 5-6)	Kanto	\N	\N
+129	Via Sotterranea (Percorsi 7-8)	Kanto	\N	\N
+130	Via Vittoria	Kanto	\N	\N
+131	Villa Pokémon	Kanto	\N	\N
+132	Villaggio di Mossgreen	Kanto	\N	\N
+133	Villaggio di Rifure	Kanto	\N	\N
+134	Villaggio Laramie	Kanto	\N	\N
+135	Villaggio Nascosto	Kanto	\N	\N
+136	Villazzurra	Kanto	\N	\N
+137	Vivaio Xanadu	Kanto	\N	\N
+138	Walnut Tree	Kanto	\N	\N
+139	Zafferanopoli	Kanto	\N	\N
+140	Zona Safari	Kanto	\N	\N
+
