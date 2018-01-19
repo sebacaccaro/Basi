@@ -1,0 +1,233 @@
+Tanfo	A volte fa tentennare i nemici
+Piovischio	Quando scende in campo, il Pokémon attira pioggia
+Acceleratore	La statistica Velocità aumenta gradualmente
+Lottascudo	Evita che il Pokémon subisca brutti colpi
+Vigore	Evita che il Pokémon vada KO in un sol colpo
+Umidità	Impedisce le mosse autodistruttive
+Scioltezza	Il Pokémon è protetto contro la paralisi
+Sabbiavelo	L'elusione aumenta nelle tempeste di sabbia
+Statico	Il contatto fisico con il Pokémon può dare paralisi
+Assorbivolt	Ridà PS se si subisce una mossa di tipo Elettro
+Assorbacqua	Ridà PS se si subisce una mossa di tipo Acqua
+Indifferenza	Impedisce al Pokémon di infatuarsi
+Antimeteo	Neutralizza gli effetti dei cambiamenti atmosferici
+Insettocchi	Aumenta la precisione del Pokémon
+Insonnia	Impedisce al Pokémon di addormentarsi
+Cambiacolore	Il Pokémon acquisisce il tipo della mossa subita
+Immunità	Impedisce al Pokémon di venire avvelenato
+Fuocardore	Potenzia le proprie mosse fuoco se ne subisce una
+Polvoscudo	Gli effetti secondari delle mosse subite svaniscono
+Mente Locale	Impedisce al Pokémon di venire confuso
+Ventose	Resiste a strumenti e mosse di sostituzione
+Prepotenza	Riduce la statistica Attacco del nemico
+Pedinombra	Impedisce la fuga al nemico
+Cartavetro	Danneggia il nemico al minimo contatto fisico
+Magidifesa	Rende vulnerabili solo alle mosse superefficaci
+Levitazione	Conferisce immunità dagli attacchi di tipo Terra
+Spargispora	Al contatto può causare veleno, paralisi o sonno
+Sincronismo	Passa veleno, paralisi o scottatura al nemico
+Corpochiaro	Le sue statistiche non possono essere ridotte
+Alternacura	Cura i problemi di stato del Pokémon sostituito
+Parafulmine	Le mosse elettro subite aumentano l'Att. Sp
+Leggiadro	Gli effetti aggiuntivi sono più probabili
+Nuotovelox	Se piove, la statistica Velocità aumenta
+Clorofilla	Se c'è sole, la statistica Velocità aumenta
+Risplendi	È più probabile incontrare Pokémon selvatici
+Traccia	Copia l'abilità del nemico
+Macroforza	Migliora la statistica Attacco del Pokémon
+Velenopunto	Al contatto subito, può avvelenare il nemico
+Forza Interiore	Evita che il Pokémon tentenni
+Magmascudo	Evita che il Pokémon venga congelato
+Idrovelo	Evita che il Pokémon resti scottato
+Magnetismo	Impedisce la fuga ai Pokémon di tipo Acciaio
+Antisuono	Fornisce immunità dalle mosse basate sul suono
+Copripioggia	Il Pokémon recupera PS quando piove
+Sabbiafiume	Causa una tempesta di sabbia durante la lotta
+Pressione	Il nemico usa più PP
+Grassospesso	Aumenta la resistenza alle mosse fuoco e ghiaccio
+Sveglialampo	Il Pokémon si risveglia rapidamente dal sonno
+Corpodifuoco	Il contatto subito può scottare il nemico
+Fugafacile	Garantisce la fuga dai Pokémon selvatici
+Sguardofermo	Evita che la precisione diminuisca
+Ipertaglio	Evita che la statistica Attacco venga ridotta
+Raccolta	Aumenta la probabilità di trovare strumenti
+Pigrone	Il Pokémon attacca un turno sì e uno no
+Tuttafretta	Aumenta l'Attacco, ma riduce la precisione
+Incantevole	Al contatto subito, il nemico può infatuarsi
+Più	Aumenta l'Attacco Speciale se ci sono Meno o Più
+Meno	Aumenta l'Attacco Speciale se ci sono Meno o Più
+Previsioni	La forma di Castform cambia in base al tempo
+Antifurto	Protegge il Pokémon dal furto di strumenti
+Muta	Può guarire i problemi di stato del Pokémon
+Dentistretti	Aumenta l'Attacco in caso di problemi di stato
+Pelledura	Aumenta la Difesa in caso di problemi di stato
+Melma	Danneggia i nemici che usano mosse ruba-PS
+Erbaiuto	In difficoltà, potenzia le mosse di tipo Erba
+Aiutofuoco	In difficoltà, potenzia le mosse di tipo Fuoco
+Acquaiuto	In difficoltà, potenzia le mosse di tipo Acqua
+Aiutinsetto	In difficoltà, potenzia le mosse di tipo Coleottero
+Testadura	Protegge il Pokémon dai contraccolpi
+Siccità	Aumenta l'intensità dei raggi solari nella lotta
+Trappoarena	Impedisce la fuga al nemico
+Spiritovivo	Evita che il Pokémon si addormenti
+Fumochiaro	Le statistiche non possono essere ridotte
+Forzapura	Migliora la statistica Attacco del Pokémon
+Guscioscudo	Evita che il Pokémon subisca brutti colpi
+Riparo	Neutralizza gli effetti dei cambiamenti atmosferici
+Intricopiedi	Aumenta l'elusione se il Pokémon è confuso
+Elettrorapid	Le mosse elettro subite aumentano la Velocità
+Antagonismo	Rende più forti contro nemici dello stesso sesso
+Cuordeciso	Aumenta la Velocità se il Pokémon tentenna
+Mantelneve	Aumenta l'elusione quando grandina
+Voracità	Favorisce l'uso anticipato di una Bacca tenuta
+Grancollera	Massimizza l'Attacco se si subisce un brutto colpo
+Agiltecnica	Aumenta la Velocità dopo aver usato uno strumento
+Antifuoco	Indebolisce l'effetto di mosse di tipo Fuoco
+Disinvoltura	Le statistiche possono cambiare senza preavviso
+Pellearsa	Riduce PS se fa caldo. L'acqua ridà PS
+Download	Regola la potenza in base al nemico
+Ferropugno	Potenzia le mosse tirapugni
+Velencura	Ridà PS se il Pokémon è avvelenato
+Adattabilità	Potenzia le mosse del tipo del Pokémon
+Abillegame	Aumenta la frequenza di mosse multicolpo
+Idratazione	Cura i problemi di stato se piove
+Solarpotere	Se c'è il sole aumenta l'Att. Sp. ma riduce i PS
+Piedisvelti	Aumenta la Velocità se c'è un problema di stato
+Normalità	Le mosse del Pokémon diventano di tipo Normale
+Cecchino	Potenzia le mosse se diventano brutti colpi
+Magicscudo	Il Pokémon subisce danni solo da attacchi diretti
+Nullodifesa	Le mosse di entrambi i Pokémon vanno a segno
+Rallentatore	Anche i nemici più lenti attaccano per primi
+Tecnico	Potenzia le mosse più deboli del Pokémon
+Fogliamanto	Evita problemi di stato quando c'è il sole
+Impaccio	Il Pokémon non può usare lo strumento che ha
+Rompiforma	Neutralizza le abilità che bloccano le mosse
+Supersorte	Aumenta la probabilità di infliggere brutti colpi
+Scoppio	Arreca danni al nemico che sferra il colpo finale
+Presagio	Rivela se il nemico ha mosse pericolose
+Premonizione	Scopre la mossa più potente del nemico
+Imprudenza	Ignora i cambi delle statistiche del nemico
+Lentifumé	Potenzia le mosse non molto efficaci
+Filtro	Riduce la potenza delle mosse superefficaci
+Lentoinizio	Dimezza per un po' l'Attacco e la Velocità
+Nervisaldi	I Pokémon spettro sono colpiti dalle mosse Normali
+Acquascolo	Le mosse acqua subite aumentano l'Att. Sp
+Corpogelo	Il Pokémon recupera PS quando grandina
+Solidroccia	Riduce i danni delle mosse superefficaci
+Scendineve	Il Pokémon provoca una grandinata in lotta
+Mielincetta	Il Pokémon può raccogliere Miele
+Indagine	Il Pokémon scopre che strumento ha il nemico
+Temerarietà	Potenzia le mosse che provocano contraccolpi
+Multitipo	Cambia tipo a seconda della Lastra che ha
+Regalfiore	Potenzia i Pokémon della squadra se c'è il sole
+Sogniamari	Riduce i PS dei nemici addormentati
+Arraffalesto	Al contatto subito, ruba lo strumento nemico
+Forzabruta	Aumenta i danni annullando altri effetti delle mosse
+Inversione	I cambi alle statistiche hanno effetto inverso
+Agitazione	Il nemico viene intimidito e non può mangiare Bacche
+Agonismo	L'Attacco aumenta se calano le statistiche
+Sconforto	Le statistiche scendono se i PS calano sotto la metà
+Corpofunesto	A volte inibisce l'ultima mossa usata dal nemico
+Curacuore	A volte cura i problemi di stato dei compagni vicini
+Amicoscudo	Riduce il danno subito dai compagni
+Sottilguscio	Riduce la Difesa e aumenta la Velocità se colpito
+Metalpesante	Raddoppia il peso del Pokémon
+Metalleggero	Dimezza il peso del Pokémon
+Multisquame	Riduce il danno subito se i PS sono al massimo
+Velenimpeto	Aumenta l'Attacco se il Pokémon è avvelenato
+Bruciaimpeto	Aumenta l'Att. Sp. se il Pokémon è scottato
+Coglibacche	Può ricreare una Bacca utilizzata
+Telepatia	Prevede ed evita gli attacchi dei compagni
+Altalena	Aumenta una statistica e ne riduce un'altra
+Copricapo	Non subisce danni causati dalle condizioni meteo
+Velentocco	Può avvelenare il nemico al solo contatto fisico
+Rigenergia	Recupera un po' di PS quando viene sostituito
+Pettinfuori	Evita che la Difesa diminuisca
+Remasabbia	La Velocità aumenta nelle tempeste di sabbia
+Splendicute	Resiste più facilmente ai cambiamenti di stato
+Ponderazione	Se agisce per ultimo, la potenza della mossa sale
+Illusione	Entra mutato nell'ultimo Pokémon della squadra
+Sosia	Si trasforma nel Pokémon che ha davanti
+Intrapasso	Attacca evitando le barriere del nemico
+Mummia	L'abilità del nemico cambia in Mummia dopo il contatto
+Arroganza	Aumenta l'Attacco quando manda un nemico KO
+Giustizia	L'Attacco aumenta se si è colpiti da una mossa buio
+Paura	Per la paura di certi tipi di mosse la Velocità sale
+Magispecchio	Riflette al mittente le mosse di stato
+Mangiaerba	L'Attacco aumenta se si è colpiti da una mossa erba
+Burla	Dà priorità a mosse che alterano lo stato
+Silicoforza	Potenzia alcune mosse nelle tempeste di sabbia
+Spineferrate	Danneggia il bersaglio al contatto fisico
+Stato Zen	Se in difficoltà, cambia l'aspetto del Pokémon
+Vittorstella	Aumenta la precisione di tutta la squadra
+Piroturbina	Neutralizza le abilità che bloccano le mosse
+Teravolt	Neutralizza le abilità che bloccano le mosse
+Aromavelo	Protegge l'utilizzatore e i suoi alleati da Provocazione e Attaccalite
+Fiorvelo	Evita il calo delle statistiche degli alleati di tipo Erba
+Guancegonfie	Fa recuperare PS quando il Pokémon mangia una bacca
+Mutatipo	Cambia il tipo del Pokémon in quello della mossa usata
+Foltopelo	Dimezza il danno degli attacchi fisici subiti
+Prestigiatore	Ruba lo strumento del Pokémon su cui è stata usata una mossa
+Antiproiettile	Il Pokémon è immune alle mosse a base di proiettili e bombe
+Tenacia	Aumenta di due livelli l'Attacco Speciale se cala una statistica
+Ferromascella	Aumenta la potenza di mosse che fanno uso di morsi
+Pellegelo	Le mosse di tipo Normale diventano di tipo Ghiaccio
+Dolcevelo	Impedisce a sé e agli alleati di addormentarsi
+Accendilotta	L'aspetto del Pokémon cambia in base alla modalità di lotta
+Aliraffica	Dà priorità +1 alle mosse di tipo Volante
+Megalancio	Potenzia le mosse "pulsar", Forzasfera e Ondasana
+Peloderba	Aumenta la Difesa durante l'effetto di Campo Erboso
+Simbiosi	Il Pokémon può passare il suo strumento a un alleato
+Unghiedure	Potenzia le mosse che causano un contatto fisico
+Pellefolletto	Le mosse di tipo Normale diventano di tipo Folletto
+Viscosità	Riduce la Velocità del Pokémon con cui entra in contatto
+Pellecielo	Le mosse di tipo Normale diventano di tipo Volante
+Amorefiliale	Il Pokémon attacca due volte. Il secondo colpo è più debole
+Auratetra	Potenzia le mosse di tipo Buio di tutti i Pokémon
+Aurafolletto	Potenzia le mosse di tipo Folletto di tutti i Pokémon
+Frangiaura	Inverte gli effetti di Aurafolletto e di Auratetra
+Mare Primordiale	Crea un clima che rende inefficaci gli attacchi di tipo Fuoco
+Terra Estrema	Crea un clima che rende inefficaci gli attacchi di tipo Acqua
+Flusso Delta	Crea un clima che annulla i punti deboli del tipo Volante
+Sopportazione	Se il Pokémon subisce un attacco, la sua Difesa aumenta
+Fuggifuggi	Se i PS scendono a metà o meno, il Pokémon abbandona la lotta per sfuggire al pericolo
+Passoindietro	Se i PS scendono a metà o meno, il Pokémon abbandona la lotta per sfuggire al pericolo
+Idrorinforzo	Se il Pokémon subisce una mossa di tipo Acqua, la sua Difesa aumenta di molto
+Spietatezza	Gli attacchi del Pokémon diventano brutti colpi se il bersaglio è avvelenato
+Scudosoglia	Se i PS scendono a metà o meno, il guscio si rompe e il Pokémon si prepara all'offensiva
+Sorveglianza	Raddoppia i danni inflitti a un bersaglio che è appena entrato in campo per sostituire un altro Pokémon
+Bolladacqua	Diminuisce i danni delle mosse Fuoco e impedisce al Pokémon di venire scottato
+Tempracciaio	Potenzia le mosse di tipo Acciaio
+Furore	Se i PS scendono a metà o meno a causa di un attacco, l'Attacco Speciale aumenta
+Spalaneve	Se grandina, la Velocità aumenta
+Distacco	Il Pokémon è in grado di usare tutte le sue mosse senza entrare in contatto diretto con il bersaglio
+Idrovoce	Le mosse basate sul suono del Pokémon con questa abilità diventano di tipo Acqua
+Primacura	Le mosse che ripristinano direttamente i PS del Pokémon acquistano priorità alta
+Pellelettro	Le mosse di tipo Normale diventano di tipo Elettro
+Codasurf	In presenza di un Campo Elettrico, la Velocità raddoppia
+Banco	Quando ha molti PS, il Pokémon forma un banco con i propri simili e si rafforza. Quando ne ha pochi, il banco si disperde
+Fantasmanto	Il panno che ricopre il Pokémon lo protegge da un singolo attacco
+Morfosintonia	Se il Pokémon manda KO un nemico, il legame con l'Allenatore si rafforza, attivando la trasformazione in Greninja Forma Ash. Acqualame si potenzia
+Sciamefusione	Se i PS del Pokémon scendono a metà o meno, le cellule si raggruppano e gli permettono di assumere la Forma Perfetta
+Corrosione	Il Pokémon è in grado di avvelenare il bersaglio anche se questo è di tipo Acciaio o Veleno
+Sonno Assoluto	Il Pokémon si trova in un costante stato di dormiveglia che gli impedisce di svegliarsi. Può attaccare anche da addormentato
+Regalità	L'aura di regalità del Pokémon impedisce al nemico di attaccarlo con mosse che hanno priorità alta
+Espellinterno	Se il Pokémon viene mandato KO da un attacco, infligge a chi lo ha sferrato tanti danni quanti erano i suoi PS prima di ricevere il colpo
+Sincrodanza	Permette al Pokémon di copiare immediatamente qualsiasi mossa basata sulla danza usata da un altro Pokémon in campo
+Batteria	Aumenta la potenza delle mosse speciali degli alleati
+Morbidone	Dimezza il danno causato dagli attacchi diretti di un nemico, ma raddoppia quello subito dalle mosse di tipo Fuoco
+Corposgargiante	Il Pokémon sbalordisce il nemico e non gli permette di attaccarlo con mosse che hanno priorità alta
+Cuoreanima	Aumenta l’Attacco Speciale ogni volta che un Pokémon va KO
+Boccolidoro	Se il Pokémon viene colpito da un attacco diretto, la Velocità di chi l'ha colpito diminuisce
+Ricezione	Il Pokémon acquisisce l'abilità di un alleato andato KO
+Forza Chimica	Il Pokémon acquisisce l'abilità di un alleato andato KO
+Ultraboost	Se il Pokémon ha mandato KO almeno un altro Pokémon nel turno, aumenta la propria statistica di punta
+Sistema Primevo	Il tipo del Pokémon cambia in base alla ROM installata
+Elettrogenesi	Quando il Pokémon entra in campo, lo trasforma in un Campo Elettrico
+Psicogenesi	Quando il Pokémon entra in campo, lo trasforma in un Campo Psichico
+Nebbiogenesi	Quando il Pokémon entra in campo, lo trasforma in un Campo Nebbioso
+Erbogenesi	Quando il Pokémon entra in campo, lo trasforma in un Campo Erboso
+Metalprotezione	Rende immuni alla diminuzione delle statistiche causata da abilità o mosse di altri Pokémon
+Spettroguardia	Se i PS sono al massimo, riduce il danno subito
+Scudoprisma	Riduce la potenza delle mosse superefficaci subite
+Cerebroforza	Potenzia le mosse superefficaci

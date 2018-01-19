@@ -1,0 +1,233 @@
+001	Tanfo	A volte fa tentennare i nemici.	III	0	6	1
+002	Piovischio	Quando scende in campo, il Pokémon attira pioggia.	III	1	0	1
+003	Acceleratore	La statistica Velocità aumenta gradualmente.	III	1	2	5
+004	Lottascudo	Evita che il Pokémon subisca brutti colpi.	III	2	4	2
+005	Vigore	Evita che il Pokémon vada KO in un sol colpo.	III	8	22	2
+006	Umidità	Impedisce le mosse autodistruttive.	III	0	8	10
+007	Scioltezza	Il Pokémon è protetto contro la paralisi.	III	1	7	2
+008	Sabbiavelo	L'elusione aumenta nelle tempeste di sabbia.	III	7	4	7
+009	Statico	Il contatto fisico con il Pokémon può dare paralisi.	III	9	5	0
+010	Assorbivolt	Ridà PS se si subisce una mossa di tipo Elettro.	III	1	2	2
+011	Assorbacqua	Ridà PS se si subisce una mossa di tipo Acqua.	III	1	12	8
+012	Indifferenza	Impedisce al Pokémon di infatuarsi.	III	0	16	3
+013	Antimeteo	Neutralizza gli effetti dei cambiamenti atmosferici.	III	0	2	4
+014	Insettocchi	Aumenta la precisione del Pokémon.	III	2	4	1
+015	Insonnia	Impedisce al Pokémon di addormentarsi.	III	0	10	1
+016	Cambiacolore	Il Pokémon acquisisce il tipo della mossa subita.	III	1	0	0
+017	Immunità	Impedisce al Pokémon di venire avvelenato.	III	1	1	1
+018	Fuocardore	Potenzia le proprie mosse fuoco se ne subisce una.	III	4	10	4
+019	Polvoscudo	Gli effetti secondari delle mosse subite svaniscono.	III	4	1	0
+020	Mente Locale	Impedisce al Pokémon di venire confuso.	III	0	13	4
+021	Ventose	Resiste a strumenti e mosse di sostituzione.	III	2	1	0
+022	Prepotenza	Riduce la statistica Attacco del nemico.	III	5	19	3
+023	Pedinombra	Impedisce la fuga al nemico.	III	2	0	6
+024	Cartavetro	Danneggia il nemico al minimo contatto fisico.	III	2	1	3
+025	Magidifesa	Rende vulnerabili solo alle mosse superefficaci.	III	1	0	0
+026	Levitazione	Conferisce immunità dagli attacchi di tipo Terra.	III	30	3	0
+027	Spargispora	Al contatto può causare veleno, paralisi o sonno.	III	2	4	1
+028	Sincronismo	Passa veleno, paralisi o scottatura al nemico.	III	3	12	0
+029	Corpochiaro	Le sue statistiche non possono essere ridotte.	III	6	2	3
+030	Alternacura	Cura i problemi di stato del Pokémon sostituito.	III	3	10	0
+031	Parafulmine	Le mosse elettro subite aumentano l'Att. Sp.	III	0	9	6
+032	Leggiadro	Gli effetti aggiuntivi sono più probabili.	III	2	7	2
+033	Nuotovelox	Se piove, la statistica Velocità aumenta.	III	8	20	10
+034	Clorofilla	Se c'è sole, la statistica Velocità aumenta.	III	10	19	6
+035	Risplendi	È più probabile incontrare Pokémon selvatici.	III	0	6	0
+036	Traccia	Copia l'abilità del nemico.	III	0	5	0
+037	Macroforza	Migliora la statistica Attacco del Pokémon.	III	0	3	0
+038	Velenopunto	Al contatto subito, può avvelenare il nemico.	III	0	14	0
+039	Forza Interiore	Evita che il Pokémon tentenni.	III	4	16	6
+040	Magmascudo	Evita che il Pokémon venga congelato.	III	0	3	0
+041	Idrovelo	Evita che il Pokémon resti scottato.	III	0	4	7
+042	Magnetismo	Impedisce la fuga ai Pokémon di tipo Acciaio.	III	0	5	0
+043	Antisuono	Fornisce immunità dalle mosse basate sul suono.	III	3	6	3
+044	Copripioggia	Il Pokémon recupera PS quando piove.	III	0	3	8
+045	Sabbiafiume	Causa una tempesta di sabbia durante la lotta.	III	3	0	0
+046	Pressione	Il nemico usa più PP.	III	18	3	4
+047	Grassospesso	Aumenta la resistenza alle mosse fuoco e ghiaccio.	III	0	15	5
+048	Sveglialampo	Il Pokémon si risveglia rapidamente dal sonno.	III	0	13	2
+049	Corpodifuoco	Il contatto subito può scottare il nemico.	III	5	5	4
+050	Fugafacile	Garantisce la fuga dai Pokémon selvatici.	III	0	16	7
+051	Sguardofermo	Evita che la precisione diminuisca.	III	5	19	5
+052	Ipertaglio	Evita che la statistica Attacco venga ridotta.	III	0	9	0
+053	Raccolta	Aumenta la probabilità di trovare strumenti.	III	1	9	0
+054	Pigrone	Il Pokémon attacca un turno sì e uno no.	III	2	0	1
+055	Tuttafretta	Aumenta l'Attacco, ma riduce la precisione.	III	3	7	8
+056	Incantevole	Al contatto subito, il nemico può infatuarsi.	III	3	8	1
+057	Più	Aumenta l'Attacco Speciale se ci sono Meno o Più.	III	1	3	3
+058	Meno	Aumenta l'Attacco Speciale se ci sono Meno o Più.	III	1	3	2
+059	Previsioni	La forma di Castform cambia in base al tempo.	III	1	0	0
+060	Antifurto	Protegge il Pokémon dal furto di strumenti.	III	0	8	0
+061	Muta	Può guarire i problemi di stato del Pokémon.	III	10	5	0
+062	Dentistretti	Aumenta l'Attacco in caso di problemi di stato.	III	3	14	4
+063	Pelledura	Aumenta la Difesa in caso di problemi di stato.	III	1	0	2
+064	Melma	Danneggia i nemici che usano mosse ruba-PS.	III	0	4	0
+065	Erbaiuto	In difficoltà, potenzia le mosse di tipo Erba.	III	15	0	2
+066	Aiutofuoco	In difficoltà, potenzia le mosse di tipo Fuoco.	III	15	0	2
+067	Acquaiuto	In difficoltà, potenzia le mosse di tipo Acqua.	III	15	0	2
+068	Aiutinsetto	In difficoltà, potenzia le mosse di tipo Coleottero.	III	4	16	4
+069	Testadura	Protegge il Pokémon dai contraccolpi.	III	2	16	0
+070	Siccità	Aumenta l'intensità dei raggi solari nella lotta.	III	1	0	2
+071	Trappoarena	Impedisce la fuga al nemico.	III	0	3	0
+072	Spiritovivo	Evita che il Pokémon si addormenti.	III	1	4	7
+073	Fumochiaro	Le statistiche non possono essere ridotte.	III	1	0	1
+074	Forzapura	Migliora la statistica Attacco del Pokémon.	III	2	0	0
+075	Guscioscudo	Evita che il Pokémon subisca brutti colpi.	III	1	13	7
+076	Riparo	Neutralizza gli effetti dei cambiamenti atmosferici.	III	1	0	0
+077	Intricopiedi	Aumenta l'elusione se il Pokémon è confuso.	IV	0	5	2
+078	Elettrorapid	Le mosse elettro subite aumentano la Velocità.	IV	1	2	1
+079	Antagonismo	Rende più forti contro nemici dello stesso sesso.	IV	0	12	4
+080	Cuordeciso	Aumenta la Velocità se il Pokémon tentenna.	IV	1	3	5
+081	Mantelneve	Aumenta l'elusione quando grandina.	IV	4	3	1
+082	Voracità	Favorisce l'uso anticipato di una Bacca tenuta.	IV	6	4	9
+083	Grancollera	Massimizza l'Attacco se si subisce un brutto colpo.	IV	0	3	4
+084	Agiltecnica	Aumenta la Velocità dopo aver usato uno strumento.	IV	0	4	5
+085	Antifuoco	Indebolisce l'effetto di mosse di tipo Fuoco.	IV	0	2	0
+086	Disinvoltura	Le statistiche possono cambiare senza preavviso.	IV	0	3	2
+087	Pellearsa	Riduce PS se fa caldo. L'acqua ridà PS.	IV	0	4	1
+088	Download	Regola la potenza in base al nemico.	IV	1	3	0
+089	Ferropugno	Potenzia le mosse tirapugni.	IV	0	3	7
+090	Velencura	Ridà PS se il Pokémon è avvelenato.	IV	0	2	1
+091	Adattabilità	Potenzia le mosse del tipo del Pokémon.	IV	0	3	3
+092	Abillegame	Aumenta la frequenza di mosse multicolpo.	IV	0	2	4
+093	Idratazione	Cura i problemi di stato se piove.	IV	2	7	9
+094	Solarpotere	Se c'è il sole aumenta l'Att. Sp. ma riduce i PS.	IV	0	3	3
+095	Piedisvelti	Aumenta la Velocità se c'è un problema di stato.	IV	0	5	7
+096	Normalità	Le mosse del Pokémon diventano di tipo Normale.	IV	0	2	0
+097	Cecchino	Potenzia le mosse se diventano brutti colpi.	IV	0	7	5
+098	Magicscudo	Il Pokémon subisce danni solo da attacchi diretti.	IV	0	7	3
+099	Nullodifesa	Le mosse di entrambi i Pokémon vanno a segno.	IV	0	3	3
+100	Rallentatore	Anche i nemici più lenti attaccano per primi.	IV	0	1	0
+101	Tecnico	Potenzia le mosse più deboli del Pokémon.	IV	0	9	5
+102	Fogliamanto	Evita problemi di stato quando c'è il sole.	IV	1	6	7
+103	Impaccio	Il Pokémon non può usare lo strumento che ha.	IV	0	6	1
+104	Rompiforma	Neutralizza le abilità che bloccano le mosse.	IV	2	4	6
+105	Supersorte	Aumenta la probabilità di infliggere brutti colpi.	IV	0	6	3
+106	Scoppio	Arreca danni al nemico che sferra il colpo finale.	IV	0	4	4
+107	Presagio	Rivela se il nemico ha mosse pericolose.	IV	1	4	1
+108	Premonizione	Scopre la mossa più potente del nemico.	IV	0	6	0
+109	Imprudenza	Ignora i cambi delle statistiche del nemico.	IV	0	4	3
+110	Lentifumé	Potenzia le mosse non molto efficaci.	IV	0	4	5
+111	Filtro	Riduce la potenza delle mosse superefficaci.	IV	0	2	0
+112	Lentoinizio	Dimezza per un po' l'Attacco e la Velocità.	IV	1	0	0
+113	Nervisaldi	I Pokémon spettro sono colpiti dalle mosse Normali.	IV	0	2	7
+114	Acquascolo	Le mosse acqua subite aumentano l'Att. Sp.	IV	0	4	3
+115	Corpogelo	Il Pokémon recupera PS quando grandina.	IV	3	5	4
+116	Solidroccia	Riduce i danni delle mosse superefficaci.	IV	0	4	0
+117	Scendineve	Il Pokémon provoca una grandinata in lotta.	IV	2	0	0
+118	Mielincetta	Il Pokémon può raccogliere Miele.	IV	1	0	1
+119	Indagine	Il Pokémon scopre che strumento ha il nemico.	IV	3	3	5
+120	Temerarietà	Potenzia le mosse che provocano contraccolpi.	IV	0	3	8
+121	Multitipo	Cambia tipo a seconda della Lastra che ha.	IV	1	0	0
+122	Regalfiore	Potenzia i Pokémon della squadra se c'è il sole.	IV	1	0	0
+123	Sogniamari	Riduce i PS dei nemici addormentati.	IV	1	0	0
+124	Arraffalesto	Al contatto subito, ruba lo strumento nemico.	V	0	0	5
+125	Forzabruta	Aumenta i danni annullando altri effetti delle mosse.	V	1	6	17
+126	Inversione	I cambi alle statistiche hanno effetto inverso.	V	0	0	5
+127	Agitazione	Il nemico viene intimidito e non può mangiare Bacche.	V	0	2	15
+128	Agonismo	L'Attacco aumenta se calano le statistiche.	V	0	2	10
+129	Sconforto	Le statistiche scendono se i PS calano sotto la metà.	V	2	0	0
+130	Corpofunesto	A volte inibisce l'ultima mossa usata dal nemico.	V	0	2	3
+131	Curacuore	A volte cura i problemi di stato dei compagni vicini.	V	0	2	3
+132	Amicoscudo	Riduce il danno subito dai compagni.	V	0	0	5
+133	Sottilguscio	Riduce la Difesa e aumenta la Velocità se colpito.	V	0	1	15
+134	Metalpesante	Raddoppia il peso del Pokémon.	V	0	0	5
+135	Metalleggero	Dimezza il peso del Pokémon.	V	0	0	5
+136	Multisquame	Riduce il danno subito se i PS sono al massimo.	V	0	0	2
+137	Velenimpeto	Aumenta l'Attacco se il Pokémon è avvelenato.	V	0	0	1
+138	Bruciaimpeto	Aumenta l'Att. Sp. se il Pokémon è scottato.	V	0	0	2
+139	Coglibacche	Può ricreare una Bacca utilizzata.	V	0	0	3
+140	Telepatia	Prevede ed evita gli attacchi dei compagni.	V	0	2	12
+141	Altalena	Aumenta una statistica e ne riduce un'altra.	V	0	0	7
+142	Copricapo	Non subisce danni causati dalle condizioni meteo.	V	0	5	12
+143	Velentocco	Può avvelenare il nemico al solo contatto fisico.	V	0	1	4
+144	Rigenergia	Recupera un po' di PS quando viene sostituito.	V	0	3	14
+145	Pettinfuori	Evita che la Difesa diminuisca.	V	0	7	4
+146	Remasabbia	La Velocità aumenta nelle tempeste di sabbia.	V	0	4	2
+147	Splendicute	Resiste più facilmente ai cambiamenti di stato.	V	0	1	3
+148	Ponderazione	Se agisce per ultimo, la potenza della mossa sale.	V	0	0	12
+149	Illusione	Entra mutato nell'ultimo Pokémon della squadra.	V	2	0	0
+150	Sosia	Si trasforma nel Pokémon che ha davanti.	V	0	0	1
+151	Intrapasso	Attacca evitando le barriere del nemico.	V	0	2	9
+152	Mummia	L'abilità del nemico cambia in Mummia dopo il contatto.	V	2	0	0
+153	Arroganza	Aumenta l'Attacco quando manda un nemico KO.	V	0	5	6
+154	Giustizia	L'Attacco aumenta se si è colpiti da una mossa buio.	V	4	0	5
+155	Paura	Per la paura di certi tipi di mosse la Velocità sale.	V	0	0	11
+156	Magispecchio	Riflette al mittente le mosse di stato.	V	0	0	3
+157	Mangiaerba	L'Attacco aumenta se si è colpiti da una mossa erba.	V	0	3	8
+158	Burla	Dà priorità a mosse che alterano lo stato.	V	2	2	7
+159	Silicoforza	Potenzia alcune mosse nelle tempeste di sabbia.	V	1	2	11
+160	Spineferrate	Danneggia il bersaglio al contatto fisico.	V	2	0	0
+161	Stato Zen	Se in difficoltà, cambia l'aspetto del Pokémon.	V	0	0	1
+162	Vittorstella	Aumenta la precisione di tutta la squadra.	V	1	0	0
+163	Piroturbina	Neutralizza le abilità che bloccano le mosse.	V	1	0	0
+164	Teravolt	Neutralizza le abilità che bloccano le mosse.	V	1	0	0
+165	Aromavelo	Protegge l'utilizzatore e i suoi alleati da Provocazione e Attaccalite.	VI	0	0	2
+166	Fiorvelo	Evita il calo delle statistiche degli alleati di tipo Erba.	VI	3	0	0
+167	Guancegonfie	Fa recuperare PS quando il Pokémon mangia una bacca.	VI	0	3	0
+168	Mutatipo	Cambia il tipo del Pokémon in quello della mossa usata.	VI	0	0	4
+169	Foltopelo	Dimezza il danno degli attacchi fisici subiti.	VI	1	0	0
+170	Prestigiatore	Ruba lo strumento del Pokémon su cui è stata usata una mossa.	VI	0	0	4
+171	Antiproiettile	Il Pokémon è immune alle mosse a base di proiettili e bombe.	VI	0	0	3
+172	Tenacia	Aumenta di due livelli l'Attacco Speciale se cala una statistica.	VI	0	7	1
+173	Ferromascella	Aumenta la potenza di mosse che fanno uso di morsi.	VI	2	0	0
+174	Pellegelo	Le mosse di tipo Normale diventano di tipo Ghiaccio.	VI	2	0	0
+175	Dolcevelo	Impedisce a sé e agli alleati di addormentarsi.	VI	2	0	0
+176	Accendilotta	L'aspetto del Pokémon cambia in base alla modalità di lotta.	VI	1	0	0
+177	Aliraffica	Dà priorità +1 alle mosse di tipo Volante.	VI	0	0	3
+178	Megalancio	Potenzia le mosse "pulsar", Forzasfera e Ondasana.	VI	3	0	0
+179	Peloderba	Aumenta la Difesa durante l'effetto di Campo Erboso.	VI	0	0	2
+180	Simbiosi	Il Pokémon può passare il suo strumento a un alleato.	VI	0	0	3
+181	Unghiedure	Potenzia le mosse che causano un contatto fisico.	VI	2	2	0
+182	Pellefolletto	Le mosse di tipo Normale diventano di tipo Folletto.	VI	2	0	1
+183	Viscosità	Riduce la Velocità del Pokémon con cui entra in contatto.	VI	0	0	3
+184	Pellecielo	Le mosse di tipo Normale diventano di tipo Volante.	VI	1	0	0
+185	Amorefiliale	Il Pokémon attacca due volte. Il secondo colpo è più debole.	VI	1	0	0
+186	Auratetra	Potenzia le mosse di tipo Buio di tutti i Pokémon.	VI	1	0	0
+187	Aurafolletto	Potenzia le mosse di tipo Folletto di tutti i Pokémon.	VI	1	0	0
+188	Frangiaura	Inverte gli effetti di Aurafolletto e di Auratetra.	VI	1	0	0
+189	Mare Primordiale	Crea un clima che rende inefficaci gli attacchi di tipo Fuoco.	VI	1	0	0
+190	Terra Estrema	Crea un clima che rende inefficaci gli attacchi di tipo Acqua.	VI	1	0	0
+191	Flusso Delta	Crea un clima che annulla i punti deboli del tipo Volante.	VI	1	0	0
+192	Sopportazione	Se il Pokémon subisce un attacco, la sua Difesa aumenta.	VII	0	2	0
+193	Fuggifuggi	Se i PS scendono a metà o meno, il Pokémon abbandona la lotta per sfuggire al pericolo.	VII	0	2	0
+194	Passoindietro	Se i PS scendono a metà o meno, il Pokémon abbandona la lotta per sfuggire al pericolo.	VII	1	0	0
+195	Idrorinforzo	Se il Pokémon subisce una mossa di tipo Acqua, la sua Difesa aumenta di molto.	VII	2	0	0
+196	Spietatezza	Gli attacchi del Pokémon diventano brutti colpi se il bersaglio è avvelenato.	VII	0	2	0
+197	Scudosoglia	Se i PS scendono a metà o meno, il guscio si rompe e il Pokémon si prepara all'offensiva.	VII	1	0	0
+198	Sorveglianza	Raddoppia i danni inflitti a un bersaglio che è appena entrato in campo per sostituire un altro Pokémon.	VII	0	2	0
+199	Bolladacqua	Diminuisce i danni delle mosse Fuoco e impedisce al Pokémon di venire scottato.	VII	0	2	0
+200	Tempracciaio	Potenzia le mosse di tipo Acciaio.	VII	1	0	0
+201	Furore	Se i PS scendono a metà o meno a causa di un attacco, l'Attacco Speciale aumenta.	VII	0	1	0
+202	Spalaneve	Se grandina, la Velocità aumenta.	VII	0	2	2
+203	Distacco	Il Pokémon è in grado di usare tutte le sue mosse senza entrare in contatto diretto con il bersaglio.	VII	0	0	3
+204	Idrovoce	Le mosse basate sul suono del Pokémon con questa abilità diventano di tipo Acqua.	VII	0	0	3
+205	Primacura	Le mosse che ripristinano direttamente i PS del Pokémon acquistano priorità alta.	VII	0	1	0
+206	Pellelettro	Le mosse di tipo Normale diventano di tipo Elettro.	VII	0	0	3
+207	Codasurf	In presenza di un Campo Elettrico, la Velocità raddoppia.	VII	1	0	0
+208	Banco	Quando ha molti PS, il Pokémon forma un banco con i propri simili e si rafforza. Quando ne ha pochi, il banco si disperde.	VII	1	0	0
+209	Fantasmanto	Il panno che ricopre il Pokémon lo protegge da un singolo attacco.	VII	1	0	0
+210	Morfosintonia	Se il Pokémon manda KO un nemico, il legame con l'Allenatore si rafforza, attivando la trasformazione in Greninja Forma Ash. Acqualame si potenzia.	VII	1	0	0
+211	Sciamefusione	Se i PS del Pokémon scendono a metà o meno, le cellule si raggruppano e gli permettono di assumere la Forma Perfetta.	VII	1	1	0
+212	Corrosione	Il Pokémon è in grado di avvelenare il bersaglio anche se questo è di tipo Acciaio o Veleno.	VII	2	0	0
+213	Sonno Assoluto	Il Pokémon si trova in un costante stato di dormiveglia che gli impedisce di svegliarsi. Può attaccare anche da addormentato.	VII	1	0	0
+214	Regalità	L'aura di regalità del Pokémon impedisce al nemico di attaccarlo con mosse che hanno priorità alta.	VII	0	2	0
+215	Espellinterno	Se il Pokémon viene mandato KO da un attacco, infligge a chi lo ha sferrato tanti danni quanti erano i suoi PS prima di ricevere il colpo.	VII	1	0	0
+216	Sincrodanza	Permette al Pokémon di copiare immediatamente qualsiasi mossa basata sulla danza usata da un altro Pokémon in campo.	VII	1	0	0
+217	Batteria	Aumenta la potenza delle mosse speciali degli alleati.	VII	1	0	0
+218	Morbidone	Dimezza il danno causato dagli attacchi diretti di un nemico, ma raddoppia quello subito dalle mosse di tipo Fuoco.	VII	0	2	0
+219	Corposgargiante	Il Pokémon sbalordisce il nemico e non gli permette di attaccarlo con mosse che hanno priorità alta.	VII	0	1	0
+220	Cuoreanima	Aumenta l’Attacco Speciale ogni volta che un Pokémon va KO.	VII	1	0	0
+221	Boccolidoro	Se il Pokémon viene colpito da un attacco diretto, la Velocità di chi l'ha colpito diminuisce.	VII	0	2	0
+222	Ricezione	Il Pokémon acquisisce l'abilità di un alleato andato KO.	VII	1	0	0
+223	Forza Chimica	Il Pokémon acquisisce l'abilità di un alleato andato KO.	VII	0	0	2
+224	Ultraboost	Se il Pokémon ha mandato KO almeno un altro Pokémon nel turno, aumenta la propria statistica di punta.	VII	10	0	0
+225	Sistema Primevo	Il tipo del Pokémon cambia in base alla ROM installata.	VII	1	0	0
+226	Elettrogenesi	Quando il Pokémon entra in campo, lo trasforma in un Campo Elettrico.	VII	1	0	0
+227	Psicogenesi	Quando il Pokémon entra in campo, lo trasforma in un Campo Psichico.	VII	1	0	0
+228	Nebbiogenesi	Quando il Pokémon entra in campo, lo trasforma in un Campo Nebbioso.	VII	1	0	0
+229	Erbogenesi	Quando il Pokémon entra in campo, lo trasforma in un Campo Erboso.	VII	1	0	0
+230	Metalprotezione	Rende immuni alla diminuzione delle statistiche causata da abilità o mosse di altri Pokémon.	VII	1	0	0
+231	Spettroguardia	Se i PS sono al massimo, riduce il danno subito.	VII	1	0	0
+232	Scudoprisma	Riduce la potenza delle mosse superefficaci subite.	VII	1	0	0
+233	Cerebroforza	Potenzia le mosse superefficaci.	VII	1	0	0

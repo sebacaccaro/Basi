@@ -35,7 +35,7 @@ CREATE TABLE Caratterizzazione(
 /*Creo Tabella Abilita*/
 CREATE TABLE Abilita(
   Nome VARCHAR(10),
-  Descrizione VARCHAR(50),
+  Descrizione VARCHAR(200),
 
   PRIMARY KEY (Nome)
 );
@@ -152,4 +152,10 @@ ALTER TABLE Habitat
   ADD CONSTRAINT HASp FOREIGN KEY (Pokemon) REFERENCES SpeciePokemon(ID),
   ADD CONSTRAINT Ora CHECK(Orario IN ("Mattino","Giorno","Notte","Sempre"));
 
-SET FOREIGN_KEY_CHECKS=1;
+
+LOAD DATA LOCAL INFILE 'SpeciePokemon.txt' INTO TABLE SpeciePokemon;
+LOAD DATA LOCAL INFILE 'Mossa.txt' INTO TABLE Mossa;
+LOAD DATA LOCAL INFILE 'Abilita.txt' INTO TABLE Abilita;
+
+
+/*SET FOREIGN_KEY_CHECKS=1;*/
