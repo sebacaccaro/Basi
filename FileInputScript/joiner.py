@@ -1,6 +1,6 @@
 
-in_file = open("pokemonNoTipi.txt","r")
-in_file2 = open("tipi.txt","r")
+in_file = open("out.txt","r")
+in_file2 = open("out2.txt","r")
 text = in_file.read()
 tipi = in_file2.read()
 in_file.close()

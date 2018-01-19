@@ -1,5 +1,5 @@
 fileINP = raw_input("Nomefile: ")
-in_file = open("3gentipi.txt","r")
+in_file = open(fileINP,"r")
 text = in_file.read()
 in_file.close()
 
