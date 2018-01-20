@@ -139,9 +139,46 @@ ALTER TABLE Zona
 ALTER TABLE Habitat
   ADD CONSTRAINT HaZo FOREIGN KEY (Zona) REFERENCES Zona(ID),
   ADD CONSTRAINT HASp FOREIGN KEY (Pokemon) REFERENCES SpeciePokemon(ID),
-  ADD CONSTRAINT Ora CHECK(Orario IN ("Mattino","Giorno","Notte","Sempre"));
+  ADD CONSTRAINT Ora CHECK(Orario IN ("Mattina","Giorno","Notte","Sempre"));
 
 
+/* Funzione 1 */
+DELIMITER //
+CREATE FUNCTION num_mosse(pkm varchar(15))
+RETURNS tinyint
+BEGIN
+	DECLARE NumMosse tinyint;
+	SELECT count(*) into NumMosse
+	FROM SpeciePokemon as s JOIN Apprendimento as a on s.ID = a.Pokémon
+	WHERE s.Nome = pkm;
+	RETURN NumMosse;
+END //
+
+/* Funzione 2 */
+DELIMITER //
+CREATE FUNCTION pokeName(pkID smallint)
+RETURNS VARCHAR(15)
+BEGIN
+	RETURN (SELECT Nome FROM SpeciePokemon AS s WHERE s.ID = pkID);
+END //
+DELIMITER ;
+
+/* Funzione 3 */
+
+/* Funzione 4 */
+DELIMITER //
+CREATE FUNCTION zoneName(znID smallint)
+RETURNS VARCHAR(15)
+BEGIN
+	RETURN (SELECT Nome FROM Zona AS s WHERE s.ID = znID);
+END //
+DELIMITER ;
+
+
+
+
+
+/* Popolamento Database*/
 LOAD DATA LOCAL INFILE 'SpeciePokemon.txt' INTO TABLE SpeciePokemon;
 LOAD DATA LOCAL INFILE 'Mossa.txt' INTO TABLE Mossa;
 LOAD DATA LOCAL INFILE 'Abilita.txt' INTO TABLE Abilita;
@@ -149,5 +186,7 @@ LOAD DATA LOCAL INFILE 'Tipi.txt' INTO TABLE Tipo;
 LOAD DATA LOCAL INFILE 'Efficacia.txt' INTO TABLE Efficacia;
 LOAD DATA LOCAL INFILE 'Zona.txt' INTO TABLE Zona;
 LOAD DATA LOCAL INFILE 'Evoluzione.txt' INTO TABLE Evoluzione;
+LOAD DATA LOCAL INFILE 'Habitat.txt' INTO TABLE Habitat;
+
 
 /*SET FOREIGN_KEY_CHECKS=1;*/
