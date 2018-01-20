@@ -138,4 +138,3 @@
 138	Walnut Tree	Kanto	\N	Prateria
 139	Zafferanopoli	Kanto	\N	Grotta
 140	Zona Safari	Kanto	\N	Prateria
-

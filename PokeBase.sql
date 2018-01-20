@@ -21,7 +21,7 @@ CREATE TABLE Apprendimento(
   Livello TinyInt NOT NULL,
   MetodoApprendimento VARCHAR(20) NOT NULL DEFAULT "LevelUP",
 
-  PRIMARY KEY(Pokemon)
+  PRIMARY KEY(Pokemon,Mossa)
 );
 
 /*Creo Tabella Caratterizzazione*/
@@ -180,6 +180,7 @@ DELIMITER ;
 
 /* Popolamento Database*/
 LOAD DATA LOCAL INFILE 'SpeciePokemon.txt' INTO TABLE SpeciePokemon;
+LOAD DATA LOCAL INFILE 'Apprendimento.txt' INTO TABLE Apprendimento;
 LOAD DATA LOCAL INFILE 'Mossa.txt' INTO TABLE Mossa;
 LOAD DATA LOCAL INFILE 'Abilita.txt' INTO TABLE Abilita;
 LOAD DATA LOCAL INFILE 'Tipi.txt' INTO TABLE Tipo;

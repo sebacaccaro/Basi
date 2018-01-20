@@ -322,4 +322,3 @@ Folletto	Ghiaccio	1
 Folletto	Drago	2
 Folletto	Buio	2
 Folletto	Folletto	1
-

@@ -100,29 +100,29 @@ Ira	20	Fisico	20	\N	100 	False	\N	Normale
 Teletrasporto	0	Stato	20	\N	\N 	False	\N	Psico
 Ombra Notturna	-2	Speciale	15	\N	100 	False	\N	Spettro
 Mimica	0	Stato	10	\N	100 	False	\N	Normale
-Stridio	0	Stato	40	\N	85 	False	\N	Normale
-Doppioteam	0	Stato	15	\N	\N 	False	\N	Normale
-Ripresa	0	Stato	10	\N	\N 	False	\N	Normale
-Rafforzatore	0	Stato	30	\N	\N 	False	\N	Normale
-Minimizzato	0	Stato	10	\N	\N 	False	\N	Normale
-Muro di Fumo	0	Stato	20	\N	100 	False	\N	Normale
-Stordiraggio	0	Stato	10	\N	100 	False	\N	Spettro
-Ritirata	0	Stato	40	\N	\N 	False	\N	Acqua
-Ricciolscudo	0	Stato	40	\N	\N 	False	\N	Normale
-Barriera	0	Stato	20	\N	\N 	False	\N	Psico
-Schermoluce	0	Stato	30	\N	\N 	False	\N	Psico
-Nube	0	Stato	30	\N	\N 	False	\N	Ghiaccio
-Riflesso	0	Stato	20	\N	\N 	False	\N	Psico
-Focalenergia	0	Stato	30	\N	\N 	False	\N	Normale
-Pazienza	-2	Fisico	10	\N	100 	False	\N	Normale
-Metronomo	0	Stato	10	\N	\N 	False	\N	Normale
-Speculmossa	0	Stato	20	\N	\N 	False	\N	Volante
-Autodistruzione	200	Fisico	5	\N	100 	False	\N	Normale
-Uovobomba	100	Fisico	10	\N	75 	False	\N	Normale
-Leccata	30	Fisico	30	\N	100 	False	\N	Spettro
-Smog	30	Speciale	20	\N	70 	False	\N	Veleno
-Fango	65	Speciale	20	\N	100 	False	\N	Veleno
-Ossoclava	65	Fisico	20	\N	85 	False	\N	Terra
+Stridio	0	Stato	40	\N	85 	False	MT1	Normale
+Doppioteam	0	Stato	15	\N	\N 	False	MT2	Normale
+Ripresa	0	Stato	10	\N	\N 	False	MT3	Normale
+Rafforzatore	0	Stato	30	\N	\N 	False	MT4	Normale
+Minimizzato	0	Stato	10	\N	\N 	False	MT5	Normale
+Muro di Fumo	0	Stato	20	\N	100 	False	MT6	Normale
+Stordiraggio	0	Stato	10	\N	100 	False	MT7	Spettro
+Ritirata	0	Stato	40	\N	\N 	False	MT8	Acqua
+Ricciolscudo	0	Stato	40	\N	\N 	False	MT9	Normale
+Barriera	0	Stato	20	\N	\N 	False	MT10	Psico
+Schermoluce	0	Stato	30	\N	\N 	False	MT11	Psico
+Nube	0	Stato	30	\N	\N 	False	MT12	Ghiaccio
+Riflesso	0	Stato	20	\N	\N 	False	MT13	Psico
+Focalenergia	0	Stato	30	\N	\N 	False	MT14	Normale
+Pazienza	-2	Fisico	10	\N	100 	False	MT15	Normale
+Metronomo	0	Stato	10	\N	\N 	False	MT16	Normale
+Speculmossa	0	Stato	20	\N	\N 	False	MT17	Volante
+Autodistruzione	200	Fisico	5	\N	100 	False	MT18	Normale
+Uovobomba	100	Fisico	10	\N	75 	False	MT19	Normale
+Leccata	30	Fisico	30	\N	100 	False	MT20	Spettro
+Smog	30	Speciale	20	\N	70 	False	MT21	Veleno
+Fango	65	Speciale	20	\N	100 	False	MT22	Veleno
+Ossoclava	65	Fisico	20	\N	85 	False	MT23	Terra
 Fuocobomba	110	Speciale	5	\N	85 	False	\N	Fuoco
 Cascata	80	Fisico	15	\N	100 	False	\N	Acqua
 Tenaglia	35	Fisico	10	\N	85 	False	\N	Acqua
@@ -138,18 +138,18 @@ Sguardo Feroce	0	Stato	30	\N	100 	False	\N	Normale
 Mangiasogni	100	Speciale	15	\N	100 	False	\N	Psico
 Velenogas	0	Stato	40	\N	90 	False	\N	Veleno
 Attacco Pioggia	15	Fisico	20	\N	85 	False	\N	Normale
-Sanguisuga	20	Fisico	15	\N	100 	False	\N	Coleottero
-Demonbacio	0	Stato	10	\N	75 	False	\N	Normale
-Aeroattacco	140	Fisico	5	\N	90 	False	\N	Volante
-Trasformazione	0	Stato	10	\N	\N 	False	\N	Normale
-Bolla	40	Speciale	30	\N	100 	False	\N	Acqua
-Stordipugno	70	Fisico	10	\N	100 	False	\N	Normale
-Spora	0	Stato	15	\N	100 	False	\N	Erba
-Flash	0	Stato	20	\N	100 	False	\N	Normale
-Psiconda	-2	Speciale	15	\N	100 	False	\N	Psico
-Splash	0	Stato	40	\N	\N 	False	\N	Normale
-Scudo Acido	0	Stato	20	\N	\N 	False	\N	Veleno
-Martellata	100	Fisico	10	\N	90 	False	\N	Acqua
+Sanguisuga	20	Fisico	15	\N	100 	False	MN1	Coleottero
+Demonbacio	0	Stato	10	\N	75 	False	MN2	Normale
+Aeroattacco	140	Fisico	5	\N	90 	False	MN3	Volante
+Trasformazione	0	Stato	10	\N	\N 	False	MN4	Normale
+Bolla	40	Speciale	30	\N	100 	False	MN5	Acqua
+Stordipugno	70	Fisico	10	\N	100 	False	MN6	Normale
+Spora	0	Stato	15	\N	100 	False	MN7	Erba
+Flash	0	Stato	20	\N	100 	False	MN8	Normale
+Psiconda	-2	Speciale	15	\N	100 	False	MN9	Psico
+Splash	0	Stato	40	\N	\N 	False	MN10	Normale
+Scudo Acido	0	Stato	20	\N	\N 	False	MN11	Veleno
+Martellata	100	Fisico	10	\N	90 	False	MN12	Acqua
 Esplosione	250	Fisico	5	\N	100 	False	\N	Normale
 Sfuriate	18	Fisico	15	\N	80 	False	\N	Normale
 Ossomerang	50	Fisico	10	\N	90 	False	\N	Terra
@@ -163,4 +163,3 @@ Superzanna	-2	Fisico	10	\N	90 	False	\N	Normale
 Lacerazione	70	Fisico	20	\N	100 	False	\N	Normale
 Sostituto	0	Stato	10	\N	\N 	False	\N	Normale
 Scontro	50	Fisico	1	\N	100 	False	\N	Normale
-

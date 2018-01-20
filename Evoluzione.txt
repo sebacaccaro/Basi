@@ -34,4 +34,3 @@
 137	134	1	PietraIdrica	\N
 64	63	1	LevelUP	16
 65	64	1	Scambio	\N
-
