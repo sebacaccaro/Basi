@@ -180,6 +180,7 @@ DELIMITER ;
 
 /* Popolamento Database*/
 LOAD DATA LOCAL INFILE 'SpeciePokemon.txt' INTO TABLE SpeciePokemon;
+LOAD DATA LOCAL INFILE 'Caratterizzazione.txt' INTO TABLE Caratterizzazione;
 LOAD DATA LOCAL INFILE 'Apprendimento.txt' INTO TABLE Apprendimento;
 LOAD DATA LOCAL INFILE 'Mossa.txt' INTO TABLE Mossa;
 LOAD DATA LOCAL INFILE 'Abilita.txt' INTO TABLE Abilita;
