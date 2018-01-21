@@ -152,3 +152,6 @@
 172	pichu	\N	3	20	Elettro	\N
 174	igglybuff	\N	3	10	Normale	Folletto
 182	bellossom	\N	4	58	Erba	\N
+186	Politoed	\N	61	34	Acqua	\N
+199	Slowking	\N	120	795	Acqua	Psico
+462	Magnezone	\N	119	1800	Elettro	Acciaio

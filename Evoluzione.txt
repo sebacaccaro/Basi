@@ -34,3 +34,48 @@
 134	133	1	PietraIdrica	\N
 64	63	1	LevelUP	16
 65	64	1	Scambio	\N
+47	46	1	LevelUP 24
+49	48	1	LevelUP	31
+51	50	1	LevelUP	26
+53	52	1	LevelUP	28
+55	54	1	LevelUP	33
+57	56	1	LevelUP	28
+59	58	1	PietraFocaia	\N
+61	60	1	LevelUP 25
+62	61	2	PietraIdrica	\N
+186	61	2	Scambio con Roccia del Re	\N
+64	63	1	LevelUP	16
+65	64	2	Scambio	\N
+67	66	1	LevelUP	28	\N
+68	67	2	Scambio	\N
+70	69	1	LevelUP 21
+71	70	2	PietraFoglia	\N
+72	71	1	LevelUP 30
+75	74	1	LevelUP 25
+76	75	2	Scambio \N
+80	79	1	LevelUP	37
+199	79	1	Scambio con Pietra del Re	\N
+82	81	1	LevelUP 30
+462	82	2	LevelUP in una zona magnetica	\n
+85	84	1	LevelUP	31
+87	86	1	LevelUP	34
+89	88	1	LevelUP	38
+91	90	1	PietraIdrica	\N
+93	92	1	LevelUP	25
+94	93	1	Scambio	\N
+208	95	1	Scambio con Metalcoperta
+97	96	1	LevelUP	26
+99	98	1	LevelUP	28
+101	100	1	LevelUP	30
+103	102	1	Pietrafoglia	\N
+105	104	1	LevelUP	28
+110	109	1	LevelUP	35
+117	116	1	LevelUP	32
+119	118	1	LevelUP	33
+121	120	1	PietraIdrica	\N
+130	129	1	LevelUP	20
+139	138	1	LevelUP	40
+141	140	1	LevelUP	40
+148	147	1	LevelUP	30
+149	148	2	LevelUP	55
+
