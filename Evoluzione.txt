@@ -29,8 +29,8 @@
 44	43	1	LevelUP	21
 45	44	2	PietraFoglia	\N
 182	44	2	PietraSolare	\N
-135	134	1	PietraTuono	\N
-136	134	1	PietraFocaia	\N
-134	134	1	PietraIdrica	\N
+135	133	1	PietraTuono	\N
+136	133	1	PietraFocaia	\N
+134	133	1	PietraIdrica	\N
 64	63	1	LevelUP	16
 65	64	1	Scambio	\N
