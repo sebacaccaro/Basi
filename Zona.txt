@@ -1,4 +1,4 @@
-1	Accademia Team Rocket	Kanto	\N	Edificio
+﻿1	Accademia Team Rocket	Kanto	\N	Edificio
 2	Accettazione Lega Pokémon	Kanto	\N	Edificio
 3	Albero dell'Inizio	Kanto	\N	Grotta
 4	Altopiano Blu	Kanto	\N	Prateria
@@ -98,7 +98,7 @@
 98	Percorso 5	Kanto	\N	Edificio
 99	Percorso 6	Kanto	\N	Prateria
 100	Percorso 7	Kanto	\N	Edificio
-101	Percorso 9	Kanto	\N	Grotta
+101	Percorso 9	Kanto	\N	Grott
 102	Piazza Monte Luna	Kanto	\N	Prateria
 103	Plumbeopoli	Kanto	\N	Acqua
 104	Pokélantis	Kanto	\N	Edificio
