@@ -167,6 +167,29 @@ END //
 DELIMITER ;
 
 /* Funzione 3 */
+DROP FUNCTION IF EXISTS maxEv;
+DELIMITER //
+CREATE FUNCTION maxEv(pkm VARCHAR(15))
+RETURNS VARCHAR(15)
+BEGIN
+	DECLARE evPkm VARCHAR(15);
+	DECLARE bPkm VARCHAR(15);
+	SET evPkm = pkm;
+	SET bPkm = pkm;
+	WHILE evPkm IS NOT NULL DO
+		SET evPkm = NULL;
+		SELECT evoluto.Nome into evPkm
+		FROM Evoluzione AS e JOIN SpeciePokemon AS base ON 
+		e.PokemonEvolvente = base.ID left outer JOIN SpeciePokemon AS evoluto ON
+		e.PokemonEvoluto = evoluto.ID
+		WHERE base.Nome = bPkm
+		LIMIT 1;
+		if evPkm IS NOT NULL then set bPkm = evPkm; end if;
+	end while;
+	return bPkm;
+END//
+DELIMITER ;
+
 
 /* Funzione 4 */
 DELIMITER //
@@ -177,6 +200,91 @@ BEGIN
 END //
 DELIMITER ;
 
+
+/* Vista 1 */
+CREATE OR REPLACE VIEW ZonaPokemon AS
+SELECT Pokemon as pkID, pokeName(Pokemon) as Pokémon, zoneName(Zona) as Zona, Orario
+FROM Habitat
+order by Pokemon;
+
+/* Vista 2 */
+CREATE OR REPLACE VIEW PokeMosse AS
+SELECT p.Nome as Pokemon, m.Nome Mossa, m.Categoria as Categoria, m.Potenza as Potenza
+FROM SpeciePokemon AS p JOIN Apprendimento AS a ON p.ID = a.Pokemon JOIN Mossa as m ON a.Mossa = m.Nome;
+
+
+/* Query 1 */
+CREATE OR REPLACE VIEW Query1 AS
+SELECT pokeName(base.PokemonEvolvente) AS pkmBase, pokeName(base.PokemonEvoluto) AS prima, pokeName(ev.PokemonEvoluto) AS seconda 
+FROM Evoluzione AS base JOIN Evoluzione AS ev on base.PokemonEvoluto = ev.PokemonEvolvente
+WHERE ev.StatoEvoluzione = 2;
+
+/* Query 2 */
+/*CREATE OR REPLACE VIEW Query2 AS*/
+
+/* Query 3 */
+CREATE OR REPLACE VIEW Query3 AS
+SELECT e1.Difensore AS Difensore1, e2.Difensore AS Difensore2, e1.Attaccante AS AttaccanteForte
+FROM Efficacia AS e1 JOIN Efficacia AS e2 ON e1.Attaccante = e2.Attaccante
+WHERE e1.Coefficiente = 2.0 AND e2.Coefficiente = 2.0 AND e1.Difensore > e2.Difensore;
+
+/* Query 4 */
+CREATE OR REPLACE VIEW Query4 AS
+SELECT Nome
+FROM SpeciePokemon
+WHERE ID not in (
+    SELECT pokemonEvolvente
+    FROM Evoluzione )
+    AND ID not in(
+    SELECT pokemonEvoluto
+    FROM Evoluzione 
+    WHERE StatoEvoluzione <> 0 );
+
+/* Query 5 */
+CREATE OR REPLACE VIEW Query5 AS
+SELECT Nome, count(e1.Coefficiente) as deboleVerso
+FROM SpeciePokemon JOIN Efficacia AS e1 ON e1.Difensore = Tipo1 
+JOIN Efficacia AS e2 on e2.Difensore = Tipo2 
+JOIN Evoluzione AS ev ON ev.PokemonEvoluto =  SpeciePokemon.ID
+WHERE e1.Coefficiente * e2.Coefficiente >1 AND ev.StatoEvoluzione = 2
+GROUP BY Nome 
+order by count(e1.coefficiente) desc
+LIMIT 1;
+
+
+/* Aux1 Query 6 */
+CREATE OR REPLACE VIEW TipiHabitat AS 
+SELECT distinct Zona, Pokemon, Tipo1 as Tipo
+FROM Habitat JOIN SpeciePokemon ON Pokemon = ID
+UNION
+SELECT distinct Zona,Pokemon, Tipo2 as Tipo
+FROM Habitat JOIN SpeciePokemon ON Pokemon = ID
+WHERE Tipo2 IS NOT NULL;
+
+/* Aux2 Query 6 */
+CREATE OR REPLACE VIEW NumPokemonPerZona AS 
+SELECT COUNT(Pokemon) as numPkm, Tipo, Zona
+FROM TipiHabitat
+GROUP BY Tipo, Zona;
+
+/* Query 6 */
+CREATE OR REPLACE VIEW Query6 AS
+SELECT Tipo, Morfologia,max(numPkm)
+FROM NumPokemonPerZona, Zona
+WHERE NumPokemonPerZona.Zona = Zona.ID
+GROUP BY Tipo
+HAVING max(numPkm);
+
+
+/* Query 7 */
+CREATE OR REPLACE VIEW Query7 AS
+SELECT S.Nome as PokemonEvoluto, S2.Nome as EvolveDa, E.ModalitaEvoluzione as Tramite
+FROM Evoluzione as E JOIN SpeciePokemon as S JOIN SpeciePokemon as S2
+ON E.PokemonEvoluto = S.ID
+WHERE E.ModalitaEvoluzione like "Pietra%" AND
+E.PokemonEvoluto = S.ID AND
+E.PokemonEvolvente = S2.ID
+ORDER BY S2.ID;
 
 
 
