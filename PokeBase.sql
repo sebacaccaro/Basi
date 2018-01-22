@@ -34,7 +34,7 @@ CREATE TABLE Caratterizzazione(
 
 /*Creo Tabella Abilita*/
 CREATE TABLE Abilita(
-  Nome VARCHAR(10),
+  Nome VARCHAR(20),
   Descrizione VARCHAR(200),
 
   PRIMARY KEY (Nome)
@@ -77,7 +77,7 @@ CREATE TABLE Evoluzione(
   PokemonEvoluto Smallint,
   PokemonEvolvente Smallint NOT NULL,
   StatoEvoluzione TinyInt NOT NULL,
-  ModalitaEvoluzione VARCHAR(20) NOT NULL DEFAULT "LevelUP",
+  ModalitaEvoluzione VARCHAR(40) NOT NULL DEFAULT "LevelUP",
   Livello TinyInt,
 
   PRIMARY KEY(PokemonEvoluto)
@@ -87,7 +87,7 @@ CREATE TABLE Evoluzione(
 /*Create Table Zona*/
 CREATE TABLE Zona(
   ID SmallInt,
-  Nome VARCHAR(30) NOT NULL,
+  Nome VARCHAR(50) NOT NULL,
   Regione VARCHAR(30) NOT NULL,
   Descrizione VARCHAR(50),
   Morfologia VARCHAR(10),
@@ -141,6 +141,9 @@ ALTER TABLE Habitat
   ADD CONSTRAINT HASp FOREIGN KEY (Pokemon) REFERENCES SpeciePokemon(ID),
   ADD CONSTRAINT Ora CHECK(Orario IN ("Mattina","Giorno","Notte","Sempre"));
 
+ALTER TABLE Tipo
+  ADD CONSTRAINT lol FOREIGN KEY (Nome) REFERENCES Efficacia(Difensore);
+
 
 /* Funzione 1 */
 DELIMITER //
@@ -191,4 +194,4 @@ LOAD DATA LOCAL INFILE 'Evoluzione.txt' INTO TABLE Evoluzione;
 LOAD DATA LOCAL INFILE 'Habitat.txt' INTO TABLE Habitat;
 
 
-/*SET FOREIGN_KEY_CHECKS=1;*/
+SET FOREIGN_KEY_CHECKS=1;
