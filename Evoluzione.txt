@@ -20,10 +20,9 @@
 31	30	2	PietraLunare	\N
 33	32	1	LevelUP	16
 34	33	2	PietraLunare	\N
-35	173	0	Felicita	\N
 36	35	1	PietraLunare	\N
 38	37	1	PietraFocaia	\N
-39	173	0	Felicita	\N
+39	174	0	Felicita	\N
 40	39	1	PietraLunare	\N
 42	22	1	LevelUP	22
 44	43	1	LevelUP	21
@@ -63,7 +62,6 @@
 91	90	1	PietraIdrica	\N
 93	92	1	LevelUP	25
 94	93	1	Scambio	\N
-208	95	1	Scambio con Metalcoperta
 97	96	1	LevelUP	26
 99	98	1	LevelUP	28
 101	100	1	LevelUP	30
@@ -78,4 +76,3 @@
 141	140	1	LevelUP	40
 148	147	1	LevelUP	30
 149	148	2	LevelUP	55
-
