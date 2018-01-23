@@ -272,7 +272,7 @@ GROUP BY Tipo, Morfologia;
 CREATE OR REPLACE VIEW Query6 AS
 SELECT n1.Tipo, n1.Morfologia,n1.numPkm 
 FROM NumPokemonPerMorfologia as n1 where n1.numPkm = 
-(SELECT max(numPkm) FROM NumPokemonPerMorfologia WHERETipo = n1.Tipo);
+(SELECT max(numPkm) FROM NumPokemonPerMorfologia WHERE Tipo = n1.Tipo);
 
 
 
