@@ -1,4 +1,4 @@
-SET FOREIGN_KEY_CHECKS = 0;
+﻿SET FOREIGN_KEY_CHECKS = 0;
 
 /*Creo Tabella SpeciePokemon Pokemon*/
 CREATE TABLE SpeciePokemon(
@@ -262,18 +262,18 @@ FROM Habitat JOIN SpeciePokemon ON Pokemon = ID
 WHERE Tipo2 IS NOT NULL;
 
 /* Aux2 Query 6 */
-CREATE OR REPLACE VIEW NumPokemonPerZona AS 
-SELECT COUNT(Pokemon) as numPkm, Tipo, Zona
-FROM TipiHabitat
-GROUP BY Tipo, Zona;
+CREATE OR REPLACE VIEW NumPokemonPerMorfologia AS 
+SELECT COUNT(Pokemon) as numPkm,Tipo,Morfologia 
+FROM TipiHabitat join Zona on Zona.ID = TipiHabitat.Zona 
+GROUP BY Tipo, Morfologia;
+
 
 /* Query 6 */
 CREATE OR REPLACE VIEW Query6 AS
-SELECT Tipo, Morfologia,max(numPkm)
-FROM NumPokemonPerZona, Zona
-WHERE NumPokemonPerZona.Zona = Zona.ID
-GROUP BY Tipo
-HAVING max(numPkm);
+SELECT n1.Tipo, n1.Morfologia,n1.numPkm 
+FROM NumPokemonPerMorfologia as n1 where n1.numPkm = 
+(SELECT max(numPkm) FROM NumPokemonPerMorfologia WHERETipo = n1.Tipo);
+
 
 
 /* Query 7 */
