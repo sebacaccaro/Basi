@@ -98,7 +98,7 @@
 98	Percorso 5	Kanto	\N	Edificio
 99	Percorso 6	Kanto	\N	Prateria
 100	Percorso 7	Kanto	\N	Edificio
-101	Percorso 9	Kanto	\N	Grott
+101	Percorso 9	Kanto	\N	Grotta
 102	Piazza Monte Luna	Kanto	\N	Prateria
 103	Plumbeopoli	Kanto	\N	Acqua
 104	Pokélantis	Kanto	\N	Edificio
